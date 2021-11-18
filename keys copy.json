@@ -1,0 +1,12 @@
+{
+  "web": {
+    "client_id": "119usercontent.com",
+    "project_id": "node-applauth2",
+    "auth_uri": "https://ao/oauth2/auth",
+    "token_uri": "https://oauth2.goken",
+    "auth_provider_x509_cert_url": "https://www.go2/v1/certs",
+    "client_secret": "EDzbuVgIhwvchD",
+    "redirect_uris": ["https://loogle/callback"],
+    "javascript_origins": ["https:3000"]
+  }
+}
